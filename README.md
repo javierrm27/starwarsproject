@@ -1,4 +1,4 @@
-# hello-world
+# star-wars-project
 
 ## Project setup
 ```
